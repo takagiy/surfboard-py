@@ -31,5 +31,6 @@ setup(
         packages=find_packages(),
         include_package_data=False,
         install_requires=[
-            'strcuta==0.0.17rc'
+            'strcuta>=0.0.17rc',
+            'numpy'
             ],)
