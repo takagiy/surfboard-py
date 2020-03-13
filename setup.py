@@ -13,7 +13,7 @@ with open(path.join(pkgdir, "README.md"), encoding="utf-8") as f:
 
 setup(
         name="surfboard",
-        version="0.0.1",
+        version="0.0.2rc1",
         url="https://github.com/takagiy/surfboard-py",
         project_urls={
             "Repository": "https://github.com/takagiy/surfboard-py",
